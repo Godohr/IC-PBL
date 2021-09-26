@@ -27,7 +27,7 @@ int main() // 리턴값 정수형 메인함수 인자값 0
     }
     else if (num == '-')
     {    //printf 출력 아래거 위에서 입력받은 값 a-b
-        printf("빼빼기 값\n");
+        printf("빼기 값\n");
         printf("%d%c%d=%d\n", a, num, b, a - b);
     }
     else if (num == '*')
