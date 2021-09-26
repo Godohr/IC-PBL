@@ -39,5 +39,9 @@ int main() // 리턴값 정수형 메인함수 인자값 0
         printf("나머지 값\n");
         printf("%d%c%d=%d\n", a, num, b, a % b);
     }
+    else it 
+    { printf("제발 갈등 발생");
+    }
+
  
 }
