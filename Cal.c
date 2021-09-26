@@ -4,7 +4,8 @@
  
 //메인함수
 int main() // 리턴값 정수형 메인함수 인자값 0
-{
+{	
+    printf("plz");
     int a, b; //정수형 변수 a,b 선언
     char num; //캐릭터형 변수 num 선언 
     printf("사칙연산 입력(정수):"); //printf 사칙연산 입력하세요 출력
@@ -38,9 +39,6 @@ int main() // 리턴값 정수형 메인함수 인자값 0
     {    //printf 출력 아래거 위에서 입력받은 값 a%b
         printf("나머지 값\n");
         printf("%d%c%d=%d\n", a, num, b, a % b);
-    }
-    else it 
-    { printf("제발 갈등 발생");
     }
 
  
