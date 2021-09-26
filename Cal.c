@@ -10,8 +10,9 @@
 int main() // 리턴값 정수형 메인함수 인자값 0
  
 {
-    int a, b; //정수형 변수 a,b 선언
-    char num; //캐릭터형 변수 num 선언 
+    int a;
+    int b; // int형 변수 a, b 선언 
+    char num; //변수선언 char num 선언 
     printf("사칙연산 입력(정수):"); //printf 사칙연산 입력하세요 출력
     scanf("%d", &a);     //scanf a값과 +,-,/,%,*,중에 치고 b값 받음
     scanf("%c", &num);
