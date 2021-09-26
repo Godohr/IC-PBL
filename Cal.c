@@ -1,11 +1,11 @@
 # 개발실무과제
 #include<stdio.h>
 
-#pragma warning(disable : 4996) //scanf 반환값이 무시되었습니다 오류 
+#pragming warning(disable : 4996) //scanf 반환값이 무시되었습니다 오류 
 
 #define Max_num 8
  
-//메인함수
+//메인 함수 ㅎ
 
 int main() // 리턴값 정수형 메인함수 인자값 0
  
