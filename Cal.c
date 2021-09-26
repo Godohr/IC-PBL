@@ -10,6 +10,7 @@
 int main() // 리턴값 정수형 메인함수 인자값 0
  
 {
+    printf("test line by choi\n");
     int a, b; //정수형 변수 a,b 선언
     char num; //캐릭터형 변수 num 선언 
     printf("사칙연산 입력(정수):"); //printf 사칙연산 입력하세요 출력
